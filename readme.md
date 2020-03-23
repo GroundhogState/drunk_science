@@ -6,6 +6,8 @@
 Yours truly finds a new COVID lockdown procrastination: Matchmaking people based on shared keywords. This could be used to find good pairings of people with a lot of field knowledge in common, or to put people together who have very little connection to each others' fields. Or just to make cool pictures. It's probably faster to do this by reading the spreadsheet, but it was fun at the time?
 
 ## "Results"
+Here is the (weighted) adjacency matrix for each person in the spreadsheet, weighted by the number of words shared in their 'discussion topics' field.
+
 ![This is ripe for a clustering algorithm](topic_viz.svg)
 
 The strongest pairings (most shared keywords) are in `field_of_study_pairs` and `topic_of_interest_pairs`. The most commonly occurring words, other than common english words, are in `field_of_study_words` and `topic_of_interest_words.`
