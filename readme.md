@@ -1,7 +1,7 @@
 # Drinking with scientists
 
 ## Why?
-2020-03-20: Sarafina Nance [proposes](https://twitter.com/starstrickenSF/status/1240731356675489794) a Drunk Science Q&A show on [Youtube](https://www.youtube.com/watch?v=11JXEkmhmB8&t=3106s). 300+ people sign up to the [spreadsheet](https://docs.google.com/spreadsheets/d/1-Kigic7VoXzO31rXyLOSE4d9fQb3ZrNfplc1XC_MYmc/edit)
+2020-03-20: Sarafina Nance [proposes](https://twitter.com/starstrickenSF/status/1240731356675489794) a Drunk Science Q&A show on [Youtube](https://www.youtube.com/watch?v=11JXEkmhmB8&t=3106s). Hundreds of people sign up to the [spreadsheet](https://docs.google.com/spreadsheets/d/1-Kigic7VoXzO31rXyLOSE4d9fQb3ZrNfplc1XC_MYmc/edit)
 
 Yours truly finds a new COVID lockdown procrastination: Matchmaking people based on shared keywords. This could be used to find good pairings of people with a lot of field knowledge in common, or to put people together who have very little connection to each others' fields. Or just to make cool pictures. It's probably faster to do this by reading the spreadsheet, but it was fun at the time?
 
